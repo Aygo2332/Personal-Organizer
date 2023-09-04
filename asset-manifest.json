@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Personal-Organizer/static/css/main.eb0f37d6.css",
+    "main.js": "/Personal-Organizer/static/js/main.c9671521.js",
+    "index.html": "/Personal-Organizer/index.html",
+    "main.eb0f37d6.css.map": "/Personal-Organizer/static/css/main.eb0f37d6.css.map",
+    "main.c9671521.js.map": "/Personal-Organizer/static/js/main.c9671521.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb0f37d6.css",
+    "static/js/main.c9671521.js"
+  ]
+}
