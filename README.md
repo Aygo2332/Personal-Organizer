@@ -70,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 # Link
-https://aygo2332.github.io/Personal-Organizer/
+https://aygo2332.github.io/Personal-Organiser/
